@@ -82,3 +82,5 @@ buildNumber.properties
 .idea/modules.xml
 .idea/spark-streaming-example.iml
 .idea/vcs.xml
+
+*.iml
