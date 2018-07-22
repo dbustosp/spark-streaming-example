@@ -1,0 +1,10 @@
+kafka.brokers=""
+zookeeper.server.host=""
+zookeeper.server.port="2181"
+zookeeper.client.host=""
+zookeeper.client.port=""
+spark.streaming.batchduration.seconds=300
+kafka.consumers.groupid="myGroup"
+kafka.consumers.stratey="earliest"
+security.protocol="SSL"
+cambrian.streaming.batch.duration.empty=21600
